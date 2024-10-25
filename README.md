@@ -11,7 +11,10 @@ I'm a passionate web developer with a focus on building responsive, scalable web
 
 ## 🚀 Projects:
 
-### [🌐 Hanout eCommerce](https://7anotk.vercel.app/)
+### [🌐 IT Company Website](https://it-company-front.vercel.app/)
+A modern, user-centric platform designed to showcase a tech company’s innovative solutions. Built with **Next.js** and **Tailwind CSS**, it offers responsive design, fast load times, and easy navigation, ensuring an engaging experience across devices. With SEO-friendly practices and scalability in mind, this project supports future growth as the company’s needs evolve.
+
+### [🛍️ Hanout eCommerce](https://7anotk.vercel.app/)
 A modern eCommerce platform with a focus on product listings, shopping cart functionality, and an admin dashboard. Built using **Next.js**, **Strapi**, and **Tailwind CSS**.
 
 ### [🌟 Printo](https://printo-dz.vercel.app/)
