@@ -23,6 +23,10 @@ Printo is a versatile web solution tailored for print-on-demand businesses. It i
 ### [💧 Water Connect](https://water-connect-site.vercel.app/)
 Water Connect is a full-stack application designed to streamline water distribution services. Built with **React**, **Express**, and a custom backend, it facilitates seamless connection services and water management.
 
+### [🎬 IMDB Clone](https://imdbclone-mu.vercel.app/)
+A web application that replicates the browsing experience of the popular Internet Movie Database (IMDB). Users can explore a wide array of movies, including detailed information such as ratings, genres, and trailers. This project is built using **Next.js**, styled with **Tailwind CSS**, and utilizes the **TMDB API** for movie data.  
+**Repository**: [IMDB Clone Repository](https://github.com/djedidi-oussama/imdb-clone)
+
 ## 🛠️ Skills & Technologies:
 
 ### Frontend:
